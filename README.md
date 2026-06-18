@@ -1,5 +1,7 @@
 # Predictive HKT
 
+EDIT: Added the chandelier neuron inspired version by claude opus. Also it wrote a 'paper' about it. 
+
 ## A live, trainless Koopman dynamics-tomograph with a biological gating front end — the geometric neuron's three organs running together on a real video stream
 
 ![pic](predictive-hkt.png)
